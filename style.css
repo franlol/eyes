@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+.wrapper {
+  height: 100vh;
+  background: rgb(16, 16, 16);
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.eye-1 {
+  background: #ff3300;
+  width: 175px;
+  height: 175px;
+  border-radius: 100px;
+  margin-bottom: 30px;
+}
+
+.eye-2 {
+  background: lime;
+  width: 175px;
+  height: 175px;
+  border-radius: 100px;
+  margin-bottom: 30px;
+}
+
+.nose {
+  background: rgb(248, 248, 255);
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+
+  margin-top: 150px;
+}
